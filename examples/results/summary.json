@@ -1,0 +1,33 @@
+{
+  "sample_kind": "synthetic_bbox_fixture",
+  "cases": [
+    {
+      "case": "complete",
+      "quality_status": "complete",
+      "candidate_fact_count": 46,
+      "current_metric_count": 23,
+      "reasons": [],
+      "source_input_sha256": "8411863317a04f02dd75cb05959f72ef9a838c42a1caf642113a2c95c2a2926f"
+    },
+    {
+      "case": "missing_anchor",
+      "quality_status": "invalid",
+      "candidate_fact_count": 44,
+      "current_metric_count": 22,
+      "reasons": [
+        "mandatory_three_statement_anchors_missing"
+      ],
+      "source_input_sha256": "0adeb1fe226936260def05df21df51c97c5e7368968ebd4b6cf7ed384bb6910d"
+    },
+    {
+      "case": "heading_gap",
+      "quality_status": "invalid",
+      "candidate_fact_count": 0,
+      "current_metric_count": 0,
+      "reasons": [
+        "no_candidate_facts"
+      ],
+      "source_input_sha256": "eb284b246e98f9f849690c7fa5774495a31b99e0b4e5745c088a6e066c8d9de2"
+    }
+  ]
+}

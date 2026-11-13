@@ -1,0 +1,64 @@
+{
+  "scope": "Historical fixed-sample local-PDF isolated run",
+  "sample_size": 2000,
+  "warmup_seconds": 120,
+  "measurement_seconds": 1800,
+  "offered_per_minute": 60.0,
+  "target_per_minute": 40.0,
+  "documents_per_minute": 59.56666666666667,
+  "full_minute_counts": [
+    41,
+    61,
+    46,
+    54,
+    57,
+    59,
+    66,
+    57,
+    54,
+    61,
+    59,
+    62,
+    61,
+    65,
+    68,
+    59,
+    69,
+    67,
+    70,
+    57,
+    59,
+    57,
+    50,
+    63,
+    58,
+    59,
+    56,
+    61,
+    64,
+    67
+  ],
+  "latency_seconds": {
+    "0.5": 24.302415370941162,
+    "0.95": 33.788508892059326,
+    "0.99": 42.9840726852417
+  },
+  "acceptance": true,
+  "accounting": {
+    "admitted": 1921,
+    "documents": 841,
+    "facts": 71856,
+    "retained": 15,
+    "terminal_acked": 1906
+  },
+  "sources": [
+    {
+      "sha256": "89fe3e51318b27518f1dd03dda0c44497b20d3a04ca3959fba2fa0f8fc0816ab",
+      "file": "benchmark-report.json"
+    },
+    {
+      "sha256": "a0c64fe7723587623178636122ce34cff72c79cfa1a4a21f2bfe7ebc8cc9423c",
+      "file": "opt40-v5-e4-independent-audit.json"
+    }
+  ]
+}

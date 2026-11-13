@@ -1,0 +1,38 @@
+{
+  "quality_status": "invalid",
+  "missing_metric_ids": [
+    "operating_cash_flow"
+  ],
+  "missing_fields": [],
+  "quality_rule_version": "cninfo-quality-1:46a2d9404f328fd226aaf528ffbf0dcee7bcf40ee22252afd3721dfa58c21b73",
+  "rejection_reasons": [
+    "mandatory_three_statement_anchors_missing"
+  ],
+  "candidate_fact_count": 44,
+  "current_consolidated_metric_ids": [
+    "accounts_receivable",
+    "current_assets",
+    "current_liabilities",
+    "ending_cash_equivalents",
+    "eps_basic",
+    "eps_diluted",
+    "financing_cash_flow",
+    "inventory",
+    "investing_cash_flow",
+    "monetary_funds",
+    "net_profit",
+    "operating_cost",
+    "operating_profit",
+    "parent_equity",
+    "parent_net_profit",
+    "revenue",
+    "total_assets",
+    "total_equity",
+    "total_liabilities",
+    "total_operating_cost",
+    "total_operating_revenue",
+    "total_profit"
+  ],
+  "required_metric_count": 23,
+  "pit_ready": false
+}

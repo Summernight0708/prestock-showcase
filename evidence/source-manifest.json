@@ -1,0 +1,27 @@
+[
+  {
+    "path": "src/a_share_research/financial_reports.py",
+    "sha256": "15ee4b044036164f7cc17ef0d37ff8f24fbc8dbd13562e6322f4e40aa053c06f",
+    "origin": "Prestock project source; byte-identical snapshot"
+  },
+  {
+    "path": "src/a_share_research/financial_report_bbox.py",
+    "sha256": "53fc15a57e8cbf4d1ad20899b4cd6f32cbb1b78060538098b0683a5a6cbf4097",
+    "origin": "Prestock project source; byte-identical snapshot"
+  },
+  {
+    "path": "src/a_share_research/cninfo_pipeline/quality.py",
+    "sha256": "c46fa344bd8000064eff0e9b4d3b2bb7b0578c1034f47618ddba1bdd0f52a1ce",
+    "origin": "Prestock project source; byte-identical snapshot"
+  },
+  {
+    "path": "data/metadata/financial_report_metric_dictionary.csv",
+    "sha256": "46a2d9404f328fd226aaf528ffbf0dcee7bcf40ee22252afd3721dfa58c21b73",
+    "origin": "Prestock project source; byte-identical snapshot"
+  },
+  {
+    "path": "tests/test_financial_report_bbox.py",
+    "sha256": "72fa602e4628bfeff8be68097ded913e077669d4e69b790cbb9b5c3f1b6e2faf",
+    "origin": "Prestock project source; byte-identical snapshot"
+  }
+]
